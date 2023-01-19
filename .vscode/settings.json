@@ -1,3 +1,18 @@
 {
-    "docsifyPreview.indexFile": "index.html"
+    "docsifyPreview.indexFile": "index.html",
+    "spellright.language": [
+        "en",
+        "fr"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "cSpell.words": [
+        "Dyna",
+        "Editer",
+        "Etendre",
+        "Kubotek"
+    ]
 }

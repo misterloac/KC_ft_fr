@@ -11,3 +11,6 @@
 
 - Configuration
   - [Interface et icones trop petits - Ecran HiDPI](configuration/interface-et-icones-trop-petits.md)
+
+- Tutoriaux
+  - [KeyCreator - Guide de démarrage rapide](tutoriaux/guide-démarrage-rapide-keycreator.md)

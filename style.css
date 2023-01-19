@@ -1,0 +1,7 @@
+.flex{
+    display: flex;
+    gap: 20px;
+}
+.jc{
+    justify-content: space-between;
+}

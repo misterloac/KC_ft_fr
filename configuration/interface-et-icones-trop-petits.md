@@ -6,13 +6,13 @@
 
 L'interface et les icones dans KeyCreator s'affiche en très petit. Cela se produit pour les écrans 4K ou UHD qui nécessite une mise à échelle de l'interface.
 
-![Exemple Icone petit](Interface-et-icones-trop-petits/screenKCHidpdi.png)
+![Exemple Icone petit](interface-et-icones-trop-petits/screenKCHidpdi.png)
 
 ## Corriger le problème
 
 1. Dans l'explorateur de fichier, aller dans le répertoire d'installation de KeyCreator
 *Par défaut : C:\Program Files\Kubotek\KeyCreatorPro.xxxx.xxx (xxx : version de KeyCreator)*  
-    ![Dossier KeyCreator](Interface-et-icones-trop-petits/kc_folder.png)
+    ![Dossier KeyCreator](interface-et-icones-trop-petits/kc_folder.png)
     
 2. Recherché l'application KC (KC.exe)
     ![Icone KC.exe](interface-et-icones-trop-petits/kcemp.png)

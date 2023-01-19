@@ -2,12 +2,15 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>CADM Services : Fiches techniques KeyCreator</title>
+  <meta name="description"
+    content="Fiches techniques pour le logiciel KeyCreator (configuration, support, nouveautés, tutoriaux...)" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <!-- <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css"> -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" href="assets/justLogo_280.png" />
 </head>
 <body>
   <div id="app">Affichage en cours...</div>
@@ -21,7 +24,7 @@
           var footer = [
             '<hr/>',
             '<footer>',
-            '<span><a href="http://www.cadm-services.com">CADM Services</a> &copy;.</span>',
+            '<span><a href="http://www.cadm-services.com">&copy; CADM Services</a></span>',
             '</footer>',
           ].join('');
 
@@ -41,7 +44,19 @@
         title: 'Sommaire',
       },
       'flexible-alerts': {
-        style: 'flat'
+        style: 'flat',
+        note: {
+          label: "Info"
+        },
+        tip: {
+          label: "Tips"
+        },
+        warning: {
+          label: "Avertissement"
+        },
+        attention: {
+          label: "Attention"
+        }
       }
     }
   </script>
@@ -49,6 +64,5 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
-  <!-- <script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script> -->
 </body>
 </html>
