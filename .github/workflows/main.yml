@@ -11,6 +11,11 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        server: ftp.cluster026.hosting.ovh.net/fiches-techniques
+        server: ftp.cluster026.hosting.ovh.net
+        server-dir: /fiches-techniques
         username: kubotekfnb
         password: ${{ secrets.ftp_password }}
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
