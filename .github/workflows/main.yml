@@ -14,7 +14,7 @@ jobs:
         server: ftp.cluster026.hosting.ovh.net
         server-dir: /fiches-techniques
         username: kubotekfnb
-        password: ${{ secrets.ftp_password }}
+        password: ${{ secrets.FTP_PASSWORD }}
         exclude: |
           **/.git*
           **/.git*/**
