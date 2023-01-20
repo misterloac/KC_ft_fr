@@ -270,7 +270,7 @@ _Les barres d’outils “Modélisation” et “Solide/Surface” permettent d�
 
 Comme pour la partie créer, la première section correspond aux lignes (2D), les parties suivantes permettent de modifier les solides et surfaces.
 
-![Menu modifier](guide-demarrage-rapide-keycreator/animation_menu_modifier.gif ":size=400") ![](guide-demarrage-rapide-keycreator/image-20220908110855797.png)
+![Menu modifier](guide-demarrage-rapide-keycreator/animation_menu_modifier.gif ":size=400") ![](guide-demarraguide-demarrage-rapide-keycreator/image-20220908110855797.png
 
 
 ### Editer la Cotation Pilotant le 3D

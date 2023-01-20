@@ -1,16 +1,22 @@
-- Installation
-  - [KeyCreator](installation/guide-dinstallation.md)
-  - [Serveur - Licences flottantes](installation/guide-dinstallation-serveur.md)
-  - [Configuration requise](installation/configuration-requise-pour-keycreator.md)
+-   Installation
 
-- Licences
-  - [Activation par code](licences/activation-par-code.md)
-  - [Versions de KeyCreator](licences/versions-de-keycreator.md)
-  - [Choix du type de licence KeyCreator](licences/choix-de-la-licence-pour-keycreator.md)
-  - [Télétravail KeyCreator - Code d'activation](licences/keycreator-utilisation-en-teletravail.md)
+    -   [KeyCreator](installation/guide-dinstallation.md)
+    -   [Serveur - Licences flottantes](installation/guide-dinstallation-serveur.md)
+    -   [Configuration requise](installation/configuration-requise-pour-keycreator.md)
 
-- Configuration
-  - [Interface et icones trop petits - Ecran HiDPI](configuration/interface-et-icones-trop-petits.md)
+-   Licences
 
-- Tutoriaux
-  - [KeyCreator - Guide de démarrage rapide](tutoriaux/guide-démarrage-rapide-keycreator.md)
+    -   [Activation par code](licences/activation-par-code.md)
+    -   [Versions de KeyCreator](licences/versions-de-keycreator.md)
+    -   [Choix du type de licence KeyCreator](licences/choix-de-la-licence-pour-keycreator.md)
+    -   [Télétravail KeyCreator - Code d'activation](licences/keycreator-utilisation-en-teletravail.md)
+
+-   Configuration
+
+    -   [Interface et icônes trop petits - Écran HiDPI](configuration/interface-et-icones-trop-petits.md)
+
+-   Tutoriels
+    -   [KeyCreator - Guide de démarrage rapide](tutoriels/guide-démarrage-rapide-keycreator.md)
+    -   [Importer une pièce mal positionnée dans l'espace](tutoriels/importer-repositionner-piece.md)
+    -   [Exercice : modéliser une souris (PC)](tutoriels/modeliser-forme-souris.md)
+    -   [Générer un assemblage à partir de solides identiques](tutoriels/simplifier-fichier-plusieurs-solides.md)
