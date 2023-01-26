@@ -20,6 +20,7 @@
     -   [Importer une pièce mal positionnée dans l'espace](tutoriels/importer-repositionner-piece.md)
     -   [Exercice : modéliser une souris (PC)](tutoriels/modeliser-forme-souris.md)
     -   [Générer un assemblage à partir de solides identiques](tutoriels/simplifier-fichier-plusieurs-solides.md)
+    -   [Modéliser un tube de forme hélicoïdale](tutoriels/modelisation-helicoidale.md)
 
 - Nouveautés
   - [KeyCreator 2020 SP1](nouveautes/kc_2020_sp1.md)

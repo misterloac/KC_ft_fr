@@ -82,6 +82,6 @@ Nous pouvons maintenant créer le tube en utilisant le fonction *Créer > Solide
 
 ## Autres informations
 
-- Pour voir une autre utilisation de la fonction *NURBS Hélice* vous pouvez aller voir la vidéo "Création d'un filetage et d'un moletage" sur YouTube :
+- Pour voir une autre utilisation de la fonction *NURBS Hélice* vous pouvez aller voir la vidéo "Création d'un filetage et d'un moletage" sur notre chaîne YouTube :
 
 https://www.youtube.com/watch?v=FIuvLEWOUjs
