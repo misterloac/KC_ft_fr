@@ -75,4 +75,4 @@
 
 ### Fichier KeyCreator
 
-[tuto-forme_souris.ckd](../assets/files/tuto-forme_souris.ckd ':ignore')
+[tuto-forme_souris.ckd](assets/files/tuto-forme_souris.ckd ':ignore')
