@@ -12,7 +12,7 @@ Le solide uni est reconnu comme une entité unique.
 
 La fonction est disponible dans le menu : *Modifier > Opérations Booléennes > Union* ou via le raccourcis "B" (raccourcis clavier par défaut). Il est aussi possible de sélectionner plusieurs solides puis d'utiliser la commande dans le menu intelligent lors d'un clic droit.
 
-![](combiner-des-solides/2023-04-combiner-des-solides/2023-04-11-17-56-22.png23-04-11-17-56-22.png)
+![](combiner-des-solides/2023-04-11-17-55-02.png) ![](combiner-des-solides/2023-04-11-17-55-20.png)
 
 ![](combiner-des-solides/2023-04-11-17-59-22.png)
 
