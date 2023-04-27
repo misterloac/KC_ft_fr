@@ -16,7 +16,7 @@
     -   [Interface et icônes trop petits - Écran HiDPI](configuration/interface-et-icones-trop-petits.md)
 
 -   Tutoriels
-    -   [KeyCreator - Guide de démarrage rapide](tutoriels/guide-démarrage-rapide-keycreator.md)
+    -   [KeyCreator - Guide de démarrage rapide](tutoriels/guide-demarrage-rapide-keycreator.md)
     -   [Importer une pièce mal positionnée dans l'espace](tutoriels/importer-repositionner-piece.md)
     -   [Exercice : modéliser une souris (PC)](tutoriels/modeliser-forme-souris.md)
     -   [Générer un assemblage à partir de solides identiques](tutoriels/simplifier-fichier-plusieurs-solides.md)
