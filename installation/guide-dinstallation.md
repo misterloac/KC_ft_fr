@@ -48,4 +48,5 @@ Au prochain démarrage vous ne verrez plus apparaître la fenêtre du choix de l
 ## Aller plus loin..
 
 
-Suite à l'installation du pack de langue française, un fichier PRISE EN MAIN KEYCREATOR.pdf a été installé (dans le menu démarrer de Windows ou dans le dossier d'installation de KeyCreator).
+- Suite à l'installation du pack de langue française, un fichier PRISE EN MAIN KEYCREATOR.pdf a été installé (dans le menu démarrer de Windows ou dans le dossier d'installation de KeyCreator).
+- Lire la fiche technique [Guide de démarrage rapide KeyCreator](/tutoriels/guide-d%C3%A9marrage-rapide-keycreator)
