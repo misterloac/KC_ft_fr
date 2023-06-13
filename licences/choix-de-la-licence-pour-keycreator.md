@@ -81,17 +81,18 @@ Ensuite, pour répondre à un maximum de besoins, le choix de la licence se déc
 
 ### Avantages
 
-- Recevoir les mises à jour KeyCreator (au moins une par an)
-- Demandes de support prioritaire
-- Pouvoir demander une [licence KeyCreator Home](#home-licence) : une seconde licence KeyCreator à utiliser chez vous lié à une adresse Mac (pas de frais supplémentaires)
-- Pouvoir commander et remplacer une clé USB défectueuse (nouvelle clé et transport payant) ou gérer un problème d’activation
-- Permets d'utiliser le mode d'authentification par login : remplace l'utilisation du code d'activation (la licence est liée à une machine) et permets d'utiliser sa licence sur différents postes (nécessite une connexion internet pour toute utilisation)
+- **Recevoir les mises à jour KeyCreator** (au moins une par an)
+- Être prioritaire pour toutes demandes de support ou d'information
+- **Pouvoir intervenir pour des problèmes de licences** : changement de code d'activation (code d'activation non révoqué avant le changement de PC ou si le PC ne fonctionne plus), changement de clé USB défectueuse
+- Pouvoir utiliser une [licence KeyCreator Home](#home-licence) : une seconde licence KeyCreator à utiliser chez vous lié à une adresse Mac (pas de frais supplémentaires)
 
-### Renouvellement AUC
+- Pourvoir utiliser le mode d'authentification par login : remplace l'utilisation du code d'activation (la licence est liée à une machine) et permets d'utiliser sa licence sur différents postes (nécessite une connexion internet pour toute utilisation)
+  
 
-- Si la date de renouvellement d’AUC est dépassée de plus de 30 jours, il y a une majoration
-- Si la date de renouvellement d’AUC est dépassée de plus de 6 mois, il y a une majoration plus importante.
-- Si la date de renouvellement d’AUC est dépassée de **plus d’un an**, il faut acquérir une **nouvelle licence**.
+### Informations 
+
+Si vous arrêtez de renouveler le contrat de maintenance, vous ne pourrez plus profiter de ses avantages sans devoir racheter une nouvelle licence.
+
 
 ## Home licence
 
