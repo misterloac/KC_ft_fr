@@ -22,6 +22,7 @@
     -   [Générer un assemblage à partir de solides identiques](tutoriels/simplifier-fichier-plusieurs-solides.md)
     -   [Modéliser un tube de forme hélicoïdale](tutoriels/modelisation-helicoidale.md)
     -   [Combiner des solides](tutoriels/combiner-des-solides.md)
+    -   [Test](tutoriels/test.md)
 
 - Nouveautés
   - [KeyCreator 2020 SP1](nouveautes/kc_2020_sp1.md)
