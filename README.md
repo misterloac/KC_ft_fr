@@ -9,7 +9,7 @@ configuration, le support, les nouvelles fonctionnalités ou les tutoriaux...
 ## Autres sites de Cadm Services
 
 ### KeyCreator
-Toutes les infos à propos de Keycreator sur le site :
+Toutes les infos à propos de KeyCreator sur le site :
 [http://www.kubotekfrance.fr/](http://www.kubotekfrance.fr/)
 
 ### Cadm Services <a href="#cadm-services" id="cadm-services"></a>
@@ -18,7 +18,7 @@ Toutes les infos à propos de Keycreator sur le site :
 
 ## YouTube <a href="#youtube" id="youtube"></a>
 
-N'oubliez pas d'aller voir notre chaine YouTube pour voir des tutoriaux, des démonstrations, ...
+N'oubliez pas d'aller voir notre chaîne YouTube pour voir des tutoriaux, des démonstrations, ...
 
 ![Logo Youtube](./assets/logo_youtube.png ":size=200")
 
