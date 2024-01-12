@@ -28,3 +28,4 @@
   - [KeyCreator 2021 SP1](nouveautes/kc_2021_sp1.md)
   - [KeyCreator 2022 SP0](nouveautes/kc_2022_sp0.md)
   - [KeyCreator 2023 SP1](nouveautes/kc_2023_sp1.md)
+  - [KeyCreator 2024 SP0](nouveautes/kc_2024_sp0.md)
