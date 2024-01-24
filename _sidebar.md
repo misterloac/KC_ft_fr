@@ -10,6 +10,7 @@
     -   [Versions de KeyCreator](licences/versions-de-keycreator.md)
     -   [Choix du type de licence KeyCreator](licences/choix-de-la-licence-pour-keycreator.md)
     -   [Télétravail KeyCreator - Code d'activation](licences/keycreator-utilisation-en-teletravail.md)
+    -   [Mise à jour KeyCreator - Licences flottantes ](licences/maj-keycreator-licences-flottantes.md)
 
 -   Configuration
 
