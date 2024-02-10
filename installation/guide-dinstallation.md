@@ -2,7 +2,7 @@
 
 ## Télécharger
 
--   Version US de KeyCreator (à installer en premier)
+-   KeyCreator en version anglaise (à installer en premier)
 -   Pack de langue FR
 
 ## Installation de KeyCreator
@@ -26,16 +26,29 @@ Seul point important, pour pouvoir installer le pack de langue française, il fa
 
 ![](guide-dinstallation/installpackfr.png ':size=600')
 
-## Installation de la licence
+## Activer votre licence
 
-Pour gérer la licence, il faut utiliser le logiciel LicenseWizard installer avec KeyCreator.
+Pour gérer la licence, il faut utiliser le logiciel LicenseWizard installer en même temps que KeyCreator.
 
-Grâce à cet utilitaire vous pouvez générer une licence d'essai de 14 jours et installer votre licence définitive (fichier licence.lic pour clé USB) ou code d'activation.
+Pour activer votre licence (temporaire ou définitive) par code d'activation, **il est nécessaire que votre PC soit connecter à internet**.
 
-![Schéma licence](guide-dinstallation/licence.png ':size=600')
+Activation du code :
+
+- Lancer LicenseWizard (version).exe
+- Cliquer sur "Activer une licence achetée"
+- Copier-coller le code d'activation envoyé par email par Cadm Services
+- Cliquer sur Activer
+
+![LicenseWizard](guide-dinstallation/license-wizard.png ':size=450')
+![Code d'activation](guide-dinstallation/lw_activation.png ':size=450')
 
 
-## Définir Keycreator en Français par défaut
+Plus d'information sur l'utilisation des codes d'activation : [Activation par code](/licences/activation-par-code)
+
+## Définir KeyCreator en Français par défaut 
+(pour les versions antérieures à KeyCreator 2024 SP0)
+
+A partir de KeyCreator Pro 2024, cette étape n'est plus nécessaire car après l'installation du pack Français, KeyCreator démarrera automatiquement dans la même langue que celle utilisée par Windows.
 
 Au démarrage si vous avez choisi la langue Française lors de l’installation. Vous devez voir cette fenêtre au premier démarrage. Pour continuer **double cliquer** sur Français.
 
@@ -47,6 +60,12 @@ Au prochain démarrage vous ne verrez plus apparaître la fenêtre du choix de l
 
 ## Aller plus loin..
 
-
-- Suite à l'installation du pack de langue française, un fichier PRISE EN MAIN KEYCREATOR.pdf a été installé (dans le menu démarrer de Windows ou dans le dossier d'installation de KeyCreator).
 - Lire le [Guide de démarrage rapide KeyCreator](/tutoriels/guide-demarrage-rapide-keycreator)
+- De plus, suite à l'installation du pack de langue française, un fichier PRISE EN MAIN KEYCREATOR.pdf a été installé (dans le menu démarrer de Windows ou dans le dossier d'installation de KeyCreator).
+
+## FAQ
+
+#### L'affichage de l'interface de KeyCreator (icone) s'affiche en très petit ?
+
+Cela se produit pour les écrans 4K ou UHD qui nécessite une mise à échelle de l'interface.  
+**Solution :** [Configuration Ecran HiDPI](/configuration/interface-et-icones-trop-petits)
