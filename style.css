@@ -5,3 +5,7 @@
 .jc{
     justify-content: space-between;
 }
+
+.markdown-section{
+    max-width:55rem;
+}

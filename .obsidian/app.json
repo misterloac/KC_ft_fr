@@ -1,0 +1,10 @@
+{
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets/files",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "showInlineTitle": false,
+  "showRibbon": true
+}
