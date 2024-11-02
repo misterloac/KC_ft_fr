@@ -144,19 +144,9 @@
               "icon": "lucide-list",
               "title": "Plan de README"
             }
-          },
-          {
-            "id": "dec8cece8b99c0da",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dec8cece8b99c0da",
+  "active": "a838f92ad735a640",
   "lastOpenFiles": [
     "tutoriels/combiner-des-solides.md",
     "_sidebar.md",
