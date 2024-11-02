@@ -1,11 +1,9 @@
 -   Installation
-
     -   [KeyCreator](installation/guide-dinstallation.md)
     -   [Serveur - Licences flottantes](installation/guide-dinstallation-serveur.md)
     -   [Configuration requise](installation/configuration-requise-pour-keycreator.md)
 
 -   Licences
-
     -   [Activation par code](licences/activation-par-code.md)
     -   [Versions de KeyCreator](licences/versions-de-keycreator.md)
     -   [Choix du type de licence KeyCreator](licences/choix-de-la-licence-pour-keycreator.md)
@@ -13,16 +11,19 @@
     -   [Mise à jour KeyCreator - Licences flottantes ](licences/maj-keycreator-licences-flottantes.md)
 
 -   Configuration
-
     -   [Interface et icônes trop petits - Écran HiDPI](configuration/interface-et-icones-trop-petits.md)
 
--   Tutoriels
+-   Guides
     -   [KeyCreator - Guide de démarrage rapide](tutoriels/guide-demarrage-rapide-keycreator.md)
-    -   [Importer une pièce mal positionnée dans l'espace](tutoriels/importer-repositionner-piece.md)
-    -   [Exercice : modéliser une souris (PC)](tutoriels/modeliser-forme-souris.md)
-    -   [Générer un assemblage à partir de solides identiques](tutoriels/simplifier-fichier-plusieurs-solides.md)
-    -   [Modéliser un tube de forme hélicoïdale](tutoriels/modelisation-helicoidale.md)
     -   [Combiner des solides](tutoriels/combiner-des-solides.md)
+
+-   Tutoriels
+    -   [Exercice : modéliser une souris (PC)](tutoriels/modeliser-forme-souris.md)
+    -   [Modéliser un tube de forme hélicoïdale](tutoriels/modelisation-helicoidale.md)
+
+-   Astuces
+    -   [Importer une pièce mal positionnée dans l'espace](tutoriels/importer-repositionner-piece.md)
+    -   [Générer un assemblage à partir de solides identiques](tutoriels/simplifier-fichier-plusieurs-solides.md)
     -   [Afficher les génératrices des solides](tutoriels/afficher_generatrices_solides.md)
 
 - Nouveautés
