@@ -27,14 +27,14 @@
     - Tangent au cercle de 20 et la ligne verticale du rectangle
   - Répéter l'opération pour l'autre cotés
 
-![dessin contour 2d](modeliser-forme-souris/contour1.png)
+![dessin contour 2d](../assets/images_fiches/modeliser-forme-souris/contour1.png)
 
 - Limiter les cercles pour obtenir le contour final
 - Créer des congés sur les coins supérieurs  
 [Modifier > Congés > Limiter]
   - Rayon 5
 
-    ![dessin des rayons](modeliser-forme-souris/contour2.png)
+    ![dessin des rayons](../assets/images_fiches/modeliser-forme-souris/contour2.png)
 
 ## 2. Extrusion 3D
 
@@ -45,33 +45,33 @@
     - XY = entre les 2 arcs de 140 (flanc)
     - Z = -37.5
 
-![sphère](modeliser-forme-souris/3d_1.png)
+![sphère](../assets/images_fiches/modeliser-forme-souris/3d_1.png)
 
 - Faire une extrusion du contour 2D vers la face de la sphère  
 [Créer > Solide par contour > Extrusion] [W]
 
-![menu extruder](modeliser-forme-souris/3d_2.png ":size=50%") ![affichage extrusion](modeliser-forme-souris/3d_3.png ":size=49%")
+![menu extruder](../assets/images_fiches/modeliser-forme-souris/3d_2.png ":size=50%") ![affichage extrusion](../assets/images_fiches/modeliser-forme-souris/3d_3.png ":size=49%")
 
-![résultat extrusion](modeliser-forme-souris/3d_4.png)
+![résultat extrusion](../assets/images_fiches/modeliser-forme-souris/3d_4.png)
 
 ## 3. Congés variables
 
 - Suivant les rayons indiqué ci-dessous créer un congé variable  
 [Créer > Formes sur solide > Congé > Variable] [D]
 
-![affichage rayon pour congé variable](modeliser-forme-souris/conge_1.png)
+![affichage rayon pour congé variable](../assets/images_fiches/modeliser-forme-souris/conge_1.png)
 
 - Choisir "Point et rayons pairs" (Rayons suivant points)
 
-![bd congé variable](modeliser-forme-souris/conge-2.png)
+![bd congé variable](../assets/images_fiches/modeliser-forme-souris/conge-2.png)
 
 - Sélectionner chaque point puis indiquer la valeur
 
-![modeliser-forme-souris/Cong_variable_ff.gif](modeliser-forme-souris/conge_variable_ff.gif)
+![modeliser-forme-souris/Cong_variable_ff.gif](../assets/images_fiches/modeliser-forme-souris/conge_variable_ff.gif)
 
 ## Résultat
 
-![résultat à obtenir](modeliser-forme-souris/resultat.png)
+![résultat à obtenir](../assets/images_fiches/modeliser-forme-souris/resultat.png)
 
 ### Fichier KeyCreator
 

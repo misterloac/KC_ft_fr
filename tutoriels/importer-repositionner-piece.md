@@ -6,7 +6,7 @@ _Réalisé avec KeyCreator 2021_
 
 Lors de l'importation d'une pièce, il est possible qu'elle ne soit pas bien positionnée dans l'espace. _Cela peut se produire lorsque la pièce a été créée avec un autre système CAO ou que l'exportation n'a pas été bien réalisée._
 
-![Image exemple](importer-repositionner-piece/problem_exemple.png)
+![Image exemple](../assets/images_fiches/importer-repositionner-piece/problem_exemple.png)
 
 ## Solution
 
@@ -15,7 +15,7 @@ Lors de l'importation d'une pièce, il est possible qu'elle ne soit pas bien pos
 2.  Définir le plan de construction à la base de la pièce  
     _Affichage > Plan de construction > Définir Plan de construction (utiliser la méthode la plus appropriée : 3 points, une face, un arc, etc)_
 
-    ![Définir le plc](importer-repositionner-piece/plc_define.png)
+    ![Définir le plc](../assets/images_fiches/importer-repositionner-piece/plc_define.png)
 
 3.  Copier la pièce  
     _Edition > Copier_
@@ -31,7 +31,7 @@ Lors de l'importation d'une pièce, il est possible qu'elle ne soit pas bien pos
 5.  Coller  
     _Edition > Coller_
 
-    ![Résultat](importer-repositionner-piece/resultat.png)
+    ![Résultat](../assets/images_fiches/importer-repositionner-piece/resultat.png)
 
 6.  Enregistrer le fichier (au format KeyCreator)
 

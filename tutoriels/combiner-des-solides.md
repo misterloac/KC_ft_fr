@@ -12,9 +12,9 @@ Le solide uni est reconnu comme une entité unique.
 
 La fonction est disponible dans le menu : *Modifier > Opérations Booléennes > Union* ou via le raccourcis "B" (raccourcis clavier par défaut). Il est aussi possible de sélectionner plusieurs solides puis d'utiliser la commande dans le menu intelligent lors d'un clic droit.
 
-![](combiner-des-solides/2023-04-11-17-55-02.png) ![](combiner-des-solides/2023-04-11-17-55-20.png)
+![](../assets/images_fiches/combiner-des-solides/2023-04-11-17-55-02.png) ![](../assets/images_fiches/combiner-des-solides/2023-04-11-17-55-20.png)
 
-![](combiner-des-solides/2023-04-11-17-59-22.png)
+![](../assets/images_fiches/combiner-des-solides/2023-04-11-17-59-22.png)
 
 ## Les groupes
 
@@ -23,11 +23,11 @@ Il est possible de définir un groupe pour ensuite y ajouter des solides. Les so
 Pour utiliser les groupe aller dans le menu : *Outils > Non-Géométrique > Groupe*  
 Il est aussi possible de sélectionner plusieurs solides puis de créer un groupe à la volée via le menu intelligent lors d'un clic droit (menu Entité)
 
-![](combiner-des-solides/groupes.png)
+![](../assets/images_fiches/combiner-des-solides/groupes.png)
 
 Ensuite pour utiliser les groupes créés, utiliser l'option "Groupe" dans le menu de sélection :
 
-![](combiner-des-solides/2023-04-11-18-07-05.png)
+![](../assets/images_fiches/combiner-des-solides/2023-04-11-18-07-05.png)
 
 ## Les composites
 
@@ -37,27 +37,27 @@ Il est ensuite possible d'utiliser la commande "Explosion générique" pour supp
 
 Les composites agissent comme des entités uniques pour de nombreuses opérations, telles que les fonctions XForm, les changements d'attributs et les changements de couche.
 
-![](combiner-des-solides/2023-04-11-18-48-01.png)
+![](../assets/images_fiches/combiner-des-solides/2023-04-11-18-48-01.png)
 
 Pour créer des composites utiliser le menu *Outils > Non-Géométrique > Composite*  
 Il est aussi possible de sélectionner plusieurs solides puis de créer une composite à la volée via le menu intelligent lors d'un clic droit (menu Entité)
 
-![](combiner-des-solides/composite.png)
+![](../assets/images_fiches/combiner-des-solides/composite.png)
 
 ## Convertir en pièce de référence (assemblage)
 
 Il est possible de convertir plusieurs solides en une pièce de référence utilisée pour faire de l'assemblage. Cela permet de créer un nouveau fichier avec les solides sélectionnés et d'utiliser ce fichier comme pièce de référence. Cela peut-être utile si vous souhaitez utiliser vos solides combinés à plusieurs endroits.
 
-![](combiner-des-solides/2023-04-11-19-20-19.png)
+![](../assets/images_fiches/combiner-des-solides/2023-04-11-19-20-19.png)
 
 De plus, lors de la modification de la pièce de référence toutes les occurrences ajoutées au fichier seront modifiées.
 
-![](combiner-des-solides/2023-04-11-19-21-58.png)
+![](../assets/images_fiches/combiner-des-solides/2023-04-11-19-21-58.png)
 
 Pour convertir des solides en pièce de référence, utiliser le menu *Assemblage > Convertir en pièce de Référence*  
 Il est aussi possible de sélectionner plusieurs solides puis de les convertir en pièce de référence à la volée via le menu intelligent lors d'un clic droit (menu Entité)
 
-![Convertir en pièce de référence](combiner-des-solides/piece-reference.png)
+![Convertir en pièce de référence](../assets/images_fiches/combiner-des-solides/piece-reference.png)
 
 ## Fonction "Combiner les solides" (obsolète)
 
@@ -66,8 +66,8 @@ Toutefois, si vous souhaitez tout de même l'utiliser, il est toujours possible 
 
 Pour se faire aller dans le menu *Outils > Personnaliser...* puis dans l'onglet *Commandes* puis dans la *Catégories* "Obsolète". Faite glisser la commande vers votre barre d'outils (n'oubliez pas de sauvegarder votre environnement, fichier .wsp pour récupérer la commande après la fermeture de KeyCreator)
 
-![](combiner-des-solides/2023-04-11-19-34-47.png)
+![](../assets/images_fiches/combiner-des-solides/2023-04-11-19-34-47.png)
 
-![](combiner-des-solides/2023-04-11-19-41-56.png)
+![](../assets/images_fiches/combiner-des-solides/2023-04-11-19-41-56.png)
 
 La commande "Séparer solides disjoint", quant à elle, est toujours disponible dans le menu *Opérations Booléennes*.
