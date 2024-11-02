@@ -34,7 +34,7 @@ Voir la fiche technique sur l'utilisation des codes d'activation :  [Activation 
 L'utilisateur doit révoquer son code d'activation, puis faire la demande de création d'un login et mot de passe auprès de Cadm Services.
 Ensuite la licence sera liée au login et mot de passe, l'utilisateur pourra installer KeyCreator sur autant de postes qu'il le souhaite et pourra se connecter grâce à son login et son mot de passe au démarrage (un poste à la fois).
 
-![Login KeyCreator](keycreator-utilisation-en-teletravail/login_kc.png)
+![Login KeyCreator](../assets/images_fiches/keycreator-utilisation-en-teletravail/login_kc.png)
 
 ### Avantages
 
@@ -59,9 +59,9 @@ Pour créer une licence *Home*, l'utilisateur doit faire la demande auprès de C
 Pour récupérer l'adresse MAC, après l'installation sur la seconde machine, il suffit d'utiliser l'utilitaire "GetLicID(.exe)" présent dans le répertoire d'installation de KeyCreator
 *(Par défaut: C:\Program Files\Kubotek\KeyCreatorPro.xxxx.SPx\)*
 
-![Utilitaire GetLicId](keycreator-utilisation-en-teletravail/getlicid.png ":size=80%")
+![Utilitaire GetLicId](../assets/images_fiches/keycreator-utilisation-en-teletravail/getlicid.png ":size=80%")
 
-![Adresse MAC](keycreator-utilisation-en-teletravail/adressemac.png)
+![Adresse MAC](../assets/images_fiches/keycreator-utilisation-en-teletravail/adressemac.png)
 
 Ensuite l'utilisateur recevra un fichier license.lic à mettre à la racine du répertoire d'installation de KeyCreator et pourra utiliser KeyCreator sur sa seconde machine.
 

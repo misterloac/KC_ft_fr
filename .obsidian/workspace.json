@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "nouveautes/kc_2024_sp0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "kc_2024_sp0"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "nouveautes/kc_2024_sp0.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de README"
+              "title": "Plan de kc_2024_sp0"
             }
           }
         ],
@@ -159,11 +159,13 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "a838f92ad735a640",
+  "active": "3d52c7da8c3db7c3",
   "lastOpenFiles": [
+    "README.md",
     "tutoriels/combiner-des-solides.md",
     "_sidebar.md",
     "assets/images_fiches",
@@ -181,7 +183,6 @@
     "tutoriels/modeliser-forme-souris.md",
     "tutoriels/modelisation-helicoidale.md",
     "assets/images_fiches",
-    "licences/activation-par-code.md",
-    "README.md"
+    "licences/activation-par-code.md"
   ]
 }

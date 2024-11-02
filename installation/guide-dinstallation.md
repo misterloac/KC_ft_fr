@@ -16,7 +16,7 @@ Lancer l’installation de KeyCreator version Anglaise, puis suivre les étapes 
 -   A la fin de l’installation, **ne pas** cocher la case “Launch Kubotek KeyCreator...”
 
 
-![](guide-dinstallation/install1.png ':size=33%') ![](guide-dinstallation/install2.png ':size=33%') ![](guide-dinstallation/install3.png ':size=33%')  
+![](../assets/images_fiches/guide-dinstallation/install1.png ':size=33%') ![](../assets/images_fiches/guide-dinstallation/install2.png ':size=33%') ![](../assets/images_fiches/guide-dinstallation/install3.png ':size=33%')  
 
 ## Installation du pack de langue Française
 
@@ -24,7 +24,7 @@ Lancer l’installation du pack de langue française : _pack-Francais-KeyCreator
 
 Seul point important, pour pouvoir installer le pack de langue française, il faut définir l’emplacement d’installation de KeyCreator. Par défaut : _C:\Program Files\Kubotek\KeyCreator(système).(version)_
 
-![](guide-dinstallation/installpackfr.png ':size=600')
+![](../assets/images_fiches/guide-dinstallation/installpackfr.png ':size=600')
 
 ## Activer votre licence
 
@@ -39,8 +39,8 @@ Activation du code :
 - Copier-coller le code d'activation envoyé par email par Cadm Services
 - Cliquer sur Activer
 
-![LicenseWizard](guide-dinstallation/license-wizard.png ':size=450')
-![Code d'activation](guide-dinstallation/lw_activation.png ':size=450')
+![LicenseWizard](../assets/images_fiches/guide-dinstallation/license-wizard.png ':size=450')
+![Code d'activation](../assets/images_fiches/guide-dinstallation/lw_activation.png ':size=450')
 
 
 Plus d'information sur l'utilisation des codes d'activation : [Activation par code](/licences/activation-par-code)
@@ -56,7 +56,7 @@ Après le chargement de KEYCREATOR cliquer dans le menu déroulant sur Outils > 
 
 Au prochain démarrage vous ne verrez plus apparaître la fenêtre du choix de langage et vous serez directement en français.
 
-![Choix de la langue](guide-dinstallation/choix_langue.png ':size=300')
+![Choix de la langue](../assets/images_fiches/guide-dinstallation/choix_langue.png ':size=300')
 
 ## Aller plus loin..
 

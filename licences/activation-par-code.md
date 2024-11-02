@@ -18,7 +18,7 @@ Le programme “License Wizard” est accessible depuis le menu Windows ou dans 
 
 ### 2. Entrer le code d’activation
 
-![Activer la licence](activation-par-code/acti.png)
+![Activer la licence](../assets/images_fiches/activation-par-code/acti.png)
 
 Fenêtres activation
 
@@ -44,7 +44,7 @@ Fenêtres activation
 
 Redémarrer le “License Wizard” et cliquer sur « Gérer les licence(s) actives ».
 
-![Menu licence Wizard](activation-par-code/licmenuvisu.png ":size=49%") ![Affichage des licences](activation-par-code/licvil.png ":size=49%")
+![Menu licence Wizard](../assets/images_fiches/activation-par-code/licmenuvisu.png ":size=49%") ![Affichage des licences](../assets/images_fiches/activation-par-code/licvil.png ":size=49%")
 
 ## Révoquer une licence
 
@@ -56,4 +56,4 @@ Révoquer l’association d’une licence pour pouvoir l’utiliser sur un autre
 -   Cliquer sur “Révoquer” ( ou “Effacer” selon la version de KeyCreator)
 -   Lorsque la licence a été révoquée, elle ne sera plus affichée
 
-![Révioquer une licence](activation-par-code/licrevoquer.png)
+![Révioquer une licence](../assets/images_fiches/activation-par-code/licrevoquer.png)

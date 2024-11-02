@@ -1,7 +1,7 @@
 # KeyCreator Pro 202x SPx
 
 <!-- Splashscreen -->
-![KC2022.png](kc_2022_sp0/KC2022.png)
+![KC2022.png](../assets/images_fiches/kc_2022_sp0/KC2022.png)
 
 ## Généralités
 
