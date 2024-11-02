@@ -99,7 +99,7 @@ Programme indépendant de KeyCreator afin de visualiser, mesurer, imprimer les f
 Vous pouvez installer ce programme sur différents ordinateurs pour consulter des fichiers KeyCreator.
 
 <!-- Mettre à jour le splash screen -->
-![Splash Screen KC VIEWER 2022.png](kc_2022_sp0/Splash_Screen_KC_VIEWER_2022.png ":size=600")
+![Splash Screen KC VIEWER 2022.png](../assets/images_fiches/kc_2022_sp0/Splash_Screen_KC_VIEWER_2022.png ":size=600")
 
 ## Récapitulatif AUC ou contrat de maintenance de mise à jour
 
