@@ -60,7 +60,7 @@ Au prochain démarrage vous ne verrez plus apparaître la fenêtre du choix de l
 
 ## Aller plus loin..
 
-- Lire le [Guide de démarrage rapide KeyCreator](/tutoriels/guide-demarrage-rapide-keycreator)
+- Lire le [Guide de démarrage rapide KeyCreator](../guides/guide-demarrage-rapide-keycreator.md)
 - De plus, suite à l'installation du pack de langue française, un fichier PRISE EN MAIN KEYCREATOR.pdf a été installé (dans le menu démarrer de Windows ou dans le dossier d'installation de KeyCreator).
 
 ## FAQ

@@ -14,17 +14,17 @@
     -   [Interface et icônes trop petits - Écran HiDPI](configuration/interface-et-icones-trop-petits.md)
 
 -   Guides
-    -   [KeyCreator - Guide de démarrage rapide](tutoriels/guide-demarrage-rapide-keycreator.md)
-    -   [Combiner des solides](tutoriels/combiner-des-solides.md)
+    -   [KeyCreator - Guide de démarrage rapide](guides/guide-demarrage-rapide-keycreator.md)
+    -   [Combiner des solides](guides/combiner-des-solides.md)
 
 -   Tutoriels
     -   [Exercice : modéliser une souris (PC)](tutoriels/modeliser-forme-souris.md)
     -   [Modéliser un tube de forme hélicoïdale](tutoriels/modelisation-helicoidale.md)
 
 -   Astuces
-    -   [Importer une pièce mal positionnée dans l'espace](tutoriels/importer-repositionner-piece.md)
-    -   [Générer un assemblage à partir de solides identiques](tutoriels/simplifier-fichier-plusieurs-solides.md)
-    -   [Afficher les génératrices des solides](tutoriels/afficher_generatrices_solides.md)
+    -   [Importer une pièce mal positionnée dans l'espace](astuces/importer-repositionner-piece.md)
+    -   [Générer un assemblage à partir de solides identiques](astuces/simplifier-fichier-plusieurs-solides.md)
+    -   [Afficher les génératrices des solides](astuces/afficher_generatrices_solides.md)
 
 - Nouveautés
   - [KeyCreator 2020 SP1](nouveautes/kc_2020_sp1.md)

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tutoriels/afficher_generatrices_solides.md",
+                "file": "astuces/simplifier-fichier-plusieurs-solides.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "afficher_generatrices_solides"
+              "title": "simplifier-fichier-plusieurs-solides"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tutoriels/afficher_generatrices_solides.md"
+                "file": "astuces/simplifier-fichier-plusieurs-solides.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de afficher_generatrices_solides"
+              "title": "Plan de simplifier-fichier-plusieurs-solides"
             }
           }
         ],
@@ -174,8 +174,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f125040798438e0e",
+  "active": "0dcef54bb02b05cd",
   "lastOpenFiles": [
+    "_sidebar.md",
+    "astuces/simplifier-fichier-plusieurs-solides.md",
+    "guides/guide-demarrage-rapide-keycreator.md",
+    "astuces",
+    "astuces/afficher_generatrices_solides.md",
+    "guides",
     "_fit/assets/files/tuto-forme_souris.ckd",
     "_fit/assets/files",
     "_fit/assets/images_fiches/guide-demarrage-rapide-keycreator/animation_cotation.gif",
@@ -194,19 +200,15 @@
     "_fit/assets/images_fiches/kc_2023_sp1",
     "_fit/assets/images_fiches/kc_2020_sp1",
     "_fit/assets/images_fiches/kc_2021_sp1",
-    "_fit/assets/images_fiches",
     "_fit/tutoriels/afficher_generatrices_solides.md",
-    "_sidebar.md",
     "_fit/_sidebar.md",
     "_fit/tutoriels/guide-demarrage-rapide-keycreator.md",
     "_fit/nouveautes/kc_2022_sp0.md",
     "_fit/licences/keycreator-utilisation-en-teletravail.md",
     "_fit/installation/guide-dinstallation.md",
-    "_fit/style.css",
     "_fit/installation/configuration-requise-pour-keycreator.md",
     "_fit/licences/maj-keycreator-licences-flottantes.md",
     "_fit/configuration/interface-et-icones-trop-petits.md",
-    "_fit/configuration",
     "_fit/licences/choix-de-la-licence-pour-keycreator.md",
     "_fit/nouveautes/kc_2021_sp1.md",
     "_fit/tutoriels/modeliser-forme-souris.md",
@@ -218,9 +220,7 @@
     "_fit/tutoriels/modelisation-helicoidale.md",
     "_fit/tutoriels/simplifier-fichier-plusieurs-solides.md",
     "_fit/nouveautes/kc_2020_sp1.md",
-    "tutoriels/afficher_generatrices_solides.md",
     "_WriteRessource/Rédaction docsify.md",
-    "nouveautes/kc_2023_sp1.md",
-    "nouveautes/kc_2024_sp0.md"
+    "nouveautes/kc_2023_sp1.md"
   ]
 }
