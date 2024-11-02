@@ -1,7 +1,7 @@
 # KeyCreator Pro 202x SPx
 
 <!-- Splashscreen -->
-![KC2022.png](../assets/images_fiches/kc_2022_sp0/KC2022.png)
+![KC2022.png](../../assets/images_fiches/kc_2022_sp0/KC2022.png)
 
 ## Généralités
 
@@ -86,7 +86,7 @@ En revanche, les fichiers créées avec des anciennes versions de KeyCreator ser
 
 ## Liste des corrections (PDF en anglais)
 <!-- Créer le fichier et mettre à jour le lien -->
-[Bug_Fixes_KC_2022_SP0_en.pdf](assets/files/bug_kixes_kc_2022_SP0_en.pdf ':ignore')
+[Bug\_Fixes\_KC\_2022\_SP0\_en.pdf](../../assets/files/bug_kixes_kc_2022_SP0_en.pdf)
 
 ---
 
@@ -99,7 +99,7 @@ Programme indépendant de KeyCreator afin de visualiser, mesurer, imprimer les f
 Vous pouvez installer ce programme sur différents ordinateurs pour consulter des fichiers KeyCreator.
 
 <!-- Mettre à jour le splash screen -->
-![Splash Screen KC VIEWER 2022.png](../assets/images_fiches/kc_2022_sp0/Splash_Screen_KC_VIEWER_2022.png ":size=600")
+![Splash Screen KC VIEWER 2022.png](../../assets/images_fiches/kc_2022_sp0/Splash_Screen_KC_VIEWER_2022.png)
 
 ## Récapitulatif AUC ou contrat de maintenance de mise à jour
 
