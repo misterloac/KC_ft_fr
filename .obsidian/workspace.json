@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_sidebar"
+              "title": "README"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tutoriels/combiner-des-solides/combiner-des-solides.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de combiner-des-solides"
+              "title": "Plan de README"
             }
           },
           {
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 389.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,15 +169,15 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0dcef54bb02b05cd",
+  "active": "dec8cece8b99c0da",
   "lastOpenFiles": [
+    "tutoriels/combiner-des-solides.md",
+    "_sidebar.md",
     "assets/images_fiches",
     "tutoriels/importer-repositionner-piece.md",
-    "_sidebar.md",
     "tutoriels/guide-demarrage-rapide-keycreator.md",
     "tutoriels/image1.md",
     "tutoriels/afficher_generatrices_solides.md",
@@ -188,7 +188,6 @@
     "assets/images_fiches/afficher_generatrices_solides/file-20241031221654361.png",
     "assets/images_fiches/afficher_generatrices_solides/file-20241031221630134.png",
     "assets/images_fiches/afficher_generatrices_solides",
-    "tutoriels/combiner-des-solides.md",
     "tutoriels/modeliser-forme-souris.md",
     "tutoriels/modelisation-helicoidale.md",
     "assets/images_fiches",
