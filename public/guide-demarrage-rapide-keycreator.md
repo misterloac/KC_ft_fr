@@ -2,7 +2,7 @@
 
 ## Présentation
 
-![Logo KeyCreator](../assets/kc_txt_logo.svg)
+![Logo KeyCreator](../assets/kc_txt_logo.svg   ':size=45%')
 
 Regroupé dans un seul logiciel, KeyCreator fournit aux professionnels de la CAO, un ensemble complet d'outils de dessin et résout la plupart des problèmes de conception et d'habillage de plans avec une très grande efficacité et précision.
 
@@ -238,21 +238,10 @@ Il est possible d’afficher le plan de construction sous la forme d’un rectan
 ## Commandes pour Créer
 
 Le menu _Créer_ permet d’accéder à toutes les commandes de création.
-
-<div class="flex">
-<div>
-
 ![Menu créer](../assets/images_fiches/guide-demarrage-rapide-keycreator/animation_menu_creer.gif) 
 
-</div><div>
-
 ![Barre d'outil créer](../assets/images_fiches/guide-demarrage-rapide-keycreator/barre_gauche.png)
-
 _Les barres d’outils “Modélisation” et “Solide/Surface” permettent d’accéder directement au commandes._
-
-</div></div>
-
-
 
 -   la première section permet la création de lignes 2D
 -   la seconde section correspond au solides et surfaces
@@ -297,9 +286,7 @@ _X-Form > Dynamique Déplacer_
 
 Permet d’effectuer un déplacement, une rotation, une mise à l’échelle ou la copie d’une ou plusieurs entités (filaire et/ou solide) en utilisant le trièdre dynamique.
 
-![Exemple utilisation Xform](../assets/images_fiches/guide-demarrage-rapide-keycreator/animation_xform.gif)
-
-#### Utilisation trièdre dynamique
+![Exemple utilisation Xform](../assets/images_fiches/guide-demarrage-rapide-keycreator/animation_xform.gif)#### Utilisation trièdre dynamique
 
 ![Trièdre dynamique](../assets/images_fiches/guide-demarrage-rapide-keycreator/triedre.png)
 

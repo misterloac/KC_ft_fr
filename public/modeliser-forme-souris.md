@@ -50,16 +50,16 @@
 - Faire une extrusion du contour 2D vers la face de la sphère  
 [Créer > Solide par contour > Extrusion] [W]
 
-![menu extruder](../assets/images_fiches/modeliser-forme-souris/3d_2.png) ![affichage extrusion](../assets/images_fiches/modeliser-forme-souris/3d_3.png)
+![menu extruder](../assets/images_fiches/modeliser-forme-souris/3d_2.png ':size=40%') ![affichage extrusion](../assets/images_fiches/modeliser-forme-souris/3d_3.png ':size=45%')
 
-![résultat extrusion](../assets/images_fiches/modeliser-forme-souris/3d_4.png)
+![résultat extrusion](../assets/images_fiches/modeliser-forme-souris/3d_4.png ':size=80%')
 
 ## 3. Congés variables
 
 - Suivant les rayons indiqué ci-dessous créer un congé variable  
 [Créer > Formes sur solide > Congé > Variable] [D]
 
-![affichage rayon pour congé variable](../assets/images_fiches/modeliser-forme-souris/conge_1.png)
+![affichage rayon pour congé variable](../assets/images_fiches/modeliser-forme-souris/conge_1.png ':size=80%')
 
 - Choisir "Point et rayons pairs" (Rayons suivant points)
 

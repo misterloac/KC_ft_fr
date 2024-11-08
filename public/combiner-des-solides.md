@@ -66,7 +66,7 @@ Toutefois, si vous souhaitez tout de même l'utiliser, il est toujours possible 
 
 Pour se faire aller dans le menu *Outils > Personnaliser...* puis dans l'onglet *Commandes* puis dans la *Catégories* "Obsolète". Faite glisser la commande vers votre barre d'outils (n'oubliez pas de sauvegarder votre environnement, fichier .wsp pour récupérer la commande après la fermeture de KeyCreator)
 
-![](../assets/images_fiches/combiner-des-solides/2023-04-11-19-34-47.png)
+![](../assets/images_fiches/combiner-des-solides/2023-04-11-19-34-47.png ':size=50%')
 
 ![](../assets/images_fiches/combiner-des-solides/2023-04-11-19-41-56.png)
 

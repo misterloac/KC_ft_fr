@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "_WriteRessource/Rédaction docsify.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_sidebar"
+              "title": "Rédaction docsify"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "_WriteRessource/Rédaction docsify.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de _sidebar"
+              "title": "Plan de Rédaction docsify"
             }
           }
         ],
@@ -161,15 +161,33 @@
   },
   "active": "3d52c7da8c3db7c3",
   "lastOpenFiles": [
-    "public/kc_2020_sp1.md",
-    "public/modelisation-helicoidale.md",
-    "public/configuration-requise-pour-keycreator.md",
-    "public/activation-par-code.md",
-    "public/simplifier-fichier-plusieurs-solides.md",
-    "_sidebar.md",
+    "assets/images_fiches/guide-demarrage-rapide-keycreator/animation_xform.gif",
+    "assets/images_fiches/guide-demarrage-rapide-keycreator/animation_menu_modifier.gif",
+    "assets/images_fiches/guide-demarrage-rapide-keycreator/animation_cotation3d.gif",
+    "assets/images_fiches/guide-demarrage-rapide-keycreator/animation_cotation.gif",
     "public/guide-demarrage-rapide-keycreator.md",
-    "public",
+    "public/kc_2021_sp1.md",
+    "public/kc_2024_sp0.md",
+    "public/kc_2020_sp1.md",
     "public/afficher_generatrices_solides.md",
+    "public/modeliser-forme-souris.md",
+    "_sidebar.md",
+    "public/combiner-des-solides.md",
+    "assets/images_fiches/guide-demarrage-rapide-keycreator/animation_menu_creer.gif",
+    "public/interface-et-icones-trop-petits.md",
+    "public/maj-keycreator-licences-flottantes.md",
+    "public/keycreator-utilisation-en-teletravail.md",
+    "public/choix-de-la-licence-pour-keycreator.md",
+    "public/versions-de-keycreator.md",
+    "public/activation-par-code.md",
+    "public/configuration-requise-pour-keycreator.md",
+    "public/guide-dinstallation-serveur.md",
+    "public/guide-dinstallation.md",
+    "_WriteRessource/Rédaction docsify.md",
+    "public/kc_2023_sp1.md",
+    "public/modelisation-helicoidale.md",
+    "public/simplifier-fichier-plusieurs-solides.md",
+    "public",
     "guides",
     "_fit/assets/files/tuto-forme_souris.ckd",
     "_fit/assets/files",
@@ -180,11 +198,7 @@
     "_fit/assets/images_fiches/guide-demarrage-rapide-keycreator/animation_cotation3d.gif",
     "_fit/assets/images_fiches/guide-demarrage-rapide-keycreator/animation_menu_modifier.gif",
     "_fit/assets/images_fiches/guide-demarrage-rapide-keycreator",
-    "_fit/assets/images_fiches/modelisation-helicoidale/balayage_profil.gif",
-    "_fit/assets/images_fiches/modelisation-helicoidale/helice_creation.gif",
-    "_fit/assets/images_fiches/modeliser-forme-souris/conge_variable_ff.gif",
     "_fit/assets/images_fiches/modeliser-forme-souris",
-    "_fit/assets/images_fiches/modelisation-helicoidale/plan_normal.gif",
     "_fit/assets/images_fiches/modelisation-helicoidale",
     "_fit/assets/images_fiches/kc_2023_sp1",
     "_fit/assets/images_fiches/kc_2020_sp1",
@@ -192,20 +206,6 @@
     "_fit/tutoriels/afficher_generatrices_solides.md",
     "_fit/_sidebar.md",
     "_fit/tutoriels/guide-demarrage-rapide-keycreator.md",
-    "_fit/nouveautes/kc_2022_sp0.md",
-    "_fit/licences/keycreator-utilisation-en-teletravail.md",
-    "_fit/installation/guide-dinstallation.md",
-    "_fit/installation/configuration-requise-pour-keycreator.md",
-    "_fit/licences/maj-keycreator-licences-flottantes.md",
-    "_fit/configuration/interface-et-icones-trop-petits.md",
-    "_fit/licences/choix-de-la-licence-pour-keycreator.md",
-    "_fit/nouveautes/kc_2021_sp1.md",
-    "_fit/tutoriels/modeliser-forme-souris.md",
-    "_fit/installation/guide-dinstallation-serveur.md",
-    "_fit/licences/activation-par-code.md",
-    "_fit/tutoriels/importer-repositionner-piece.md",
-    "_fit/_WriteRessource/--templates/kc_202x_spx.md",
-    "_fit/licences/versions-de-keycreator.md",
-    "_fit/tutoriels/modelisation-helicoidale.md"
+    "_fit/nouveautes/kc_2022_sp0.md"
   ]
 }

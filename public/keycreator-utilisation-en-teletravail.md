@@ -12,7 +12,7 @@
 
 - Révoquer la licence sur le poste actif
 - Activer le code d'activation sur un autre poste
-Voir la fiche technique sur l'utilisation des codes d'activation :  [Activation par code](/licences/activation-par-code)
+Voir la fiche technique sur l'utilisation des codes d'activation :  [Activation par code](/public/activation-par-code)
 
 ### Avantages
 
@@ -79,7 +79,7 @@ Ensuite l'utilisateur recevra un fichier license.lic à mettre à la racine du r
 
 La dernière possibilité est de migrer les licences fixes vers des licences flottantes.
 
-Pour plus d'information sur les licences flottantes voir la fiche technique sur le choix de la licence pour KeyCreator : [Choix de la licence pour KeyCreator](/licences/choix-de-la-licence-pour-keycreator) 
+Pour plus d'information sur les licences flottantes voir la fiche technique sur le choix de la licence pour KeyCreator : [Choix de la licence pour KeyCreator](/public/choix-de-la-licence-pour-keycreator) 
 
 ### Avantages
 

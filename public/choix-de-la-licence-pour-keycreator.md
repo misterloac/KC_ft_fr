@@ -2,7 +2,7 @@
 
 Lors de l’achat de KeyCreator vous avez différents choix pour la licence. 
 
-Tous d’abord, il faut choisir qu’elle est la version de KeyCreator qui vous est nécessaire ([voir page versions de KeyCreator](versions-de-keycreator.md)).
+Tous d’abord, il faut choisir qu’elle est la version de KeyCreator qui vous est nécessaire ([voir page versions de KeyCreator](public/versions-de-keycreator.md)).
 
 Ensuite, pour répondre à un maximum de besoins, le choix de la licence se décompose en trois parties : 
 

@@ -1,4 +1,4 @@
-# Afficher les génératrices des solides  (lignes isoparamétriques)
+# Afficher les lignes isoparamétriques des solides  (génératrices)
 
 * Par défaut, KeyCreator affiche le minimum de génératrice pour les solides
 

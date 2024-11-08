@@ -16,7 +16,7 @@ Lancer l’installation de KeyCreator version Anglaise, puis suivre les étapes 
 -   A la fin de l’installation, **ne pas** cocher la case “Launch Kubotek KeyCreator...”
 
 
-![](../assets/images_fiches/guide-dinstallation/install1.png) ![](../assets/images_fiches/guide-dinstallation/install2.png) ![](../assets/images_fiches/guide-dinstallation/install3.png)  
+![Screen install 1](../assets/images_fiches/guide-dinstallation/install1.png ':size=33%')![Screen install 2](../assets/images_fiches/guide-dinstallation/install2.png ':size=33%') ![Screen install 2](../assets/images_fiches/guide-dinstallation/install3.png ':size=33%')  
 
 ## Installation du pack de langue Française
 
@@ -24,7 +24,7 @@ Lancer l’installation du pack de langue française : _pack-Francais-KeyCreator
 
 Seul point important, pour pouvoir installer le pack de langue française, il faut définir l’emplacement d’installation de KeyCreator. Par défaut : _C:\Program Files\Kubotek\KeyCreator(système).(version)_
 
-![](../assets/images_fiches/guide-dinstallation/installpackfr.png)
+![](../assets/images_fiches/guide-dinstallation/installpackfr.png ':size=60%')
 
 ## Activer votre licence
 
@@ -39,14 +39,13 @@ Activation du code :
 - Copier-coller le code d'activation envoyé par email par Cadm Services
 - Cliquer sur Activer
 
-![LicenseWizard](../assets/images_fiches/guide-dinstallation/license-wizard.png)
-![Code d'activation](../assets/images_fiches/guide-dinstallation/lw_activation.png)
+![LicenseWizard](../assets/images_fiches/guide-dinstallation/license-wizard.png ':size=50%')![Code d'activation](../assets/images_fiches/guide-dinstallation/lw_activation.png ':size=50%')
 
 
 Plus d'information sur l'utilisation des codes d'activation : [Activation par code](activation-par-code.md)
 
 ## Définir KeyCreator en Français par défaut 
-(pour les versions antérieures à KeyCreator 2024 SP0)
+(**Pour les versions antérieures à KeyCreator 2024 SP0**)
 
 A partir de KeyCreator Pro 2024, cette étape n'est plus nécessaire car après l'installation du pack Français, KeyCreator démarrera automatiquement dans la même langue que celle utilisée par Windows.
 
@@ -56,11 +55,11 @@ Après le chargement de KEYCREATOR cliquer dans le menu déroulant sur Outils > 
 
 Au prochain démarrage vous ne verrez plus apparaître la fenêtre du choix de langage et vous serez directement en français.
 
-![Choix de la langue](../assets/images_fiches/guide-dinstallation/choix_langue.png)
+![Choix de la langue](../assets/images_fiches/guide-dinstallation/choix_langue.png ':size=40%')
 
 ## Aller plus loin..
 
-- Lire le [Guide de démarrage rapide KeyCreator](guide-demarrage-rapide-keycreator.md)
+- Lire le [Guide de démarrage rapide KeyCreator](public/guide-demarrage-rapide-keycreator.md)
 - De plus, suite à l'installation du pack de langue française, un fichier PRISE EN MAIN KEYCREATOR.pdf a été installé (dans le menu démarrer de Windows ou dans le dossier d'installation de KeyCreator).
 
 ## FAQ
@@ -68,4 +67,4 @@ Au prochain démarrage vous ne verrez plus apparaître la fenêtre du choix de l
 #### L'affichage de l'interface de KeyCreator (icone) s'affiche en très petit ?
 
 Cela se produit pour les écrans 4K ou UHD qui nécessite une mise à échelle de l'interface.  
-**Solution :** [Configuration Ecran HiDPI](interface-et-icones-trop-petits.md)
+**Solution :** [Configuration Ecran HiDPI](public/interface-et-icones-trop-petits.md)

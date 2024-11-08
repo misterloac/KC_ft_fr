@@ -8,7 +8,7 @@ Ajouter le fichier “license.lic” pour la liaison au serveur. Soit par copier
 
 Pour créer le fichier "license.lic" sur le poste client suivre le paragraphe "Partie poste de travail client" de cette fiche technique :
 
-[CADM Services : Fiches techniques KeyCreator](http://fiches-techniques.kubotekfrance.fr/#/installation/guide-dinstallation-serveur?id=partie-poste-de-travail-client)
+[CADM Services : Fiches techniques KeyCreator](public/guide-dinstallation-serveur?id=partie-poste-de-travail-client)
 
 ### Par copier-coller
 
@@ -16,14 +16,14 @@ Il aussi possible de copier-coller le fichier "license.lic" de la version préc�
 
 *Répertoire d'installation par défaut de KeyCreator : C:\Program Files\Kubotek\KeyCreatorPro.20xx.SPx*
 
-![Licence.lic KeyCreator](../assets/images_fiches/maj-keycreator-licences-flottantes/explorer_licence.png)
+![Licence.lic KeyCreator](../assets/images_fiches/maj-keycreator-licences-flottantes/explorer_licence.png   ':size=75%')
 
 
 ## Message d’erreur : “licences trop anciennes”
 
 Si le message d'erreur ci-dessous apparait, cela veut dire que la licence sur le serveur n'est pas à jour.
 
-![Message erreur licence](../assets/images_fiches/maj-keycreator-licences-flottantes/msg-erreur-licence.png)
+![Message erreur licence](../assets/images_fiches/maj-keycreator-licences-flottantes/msg-erreur-licence.png  ':size=75%')
 
 ### Vérifier la date d’expiration des licences
 
@@ -33,7 +33,7 @@ Pour vérifier que les licences sur le serveur sont à jour ou pas, sur le serve
 
 Démarrer l’utilitaire “KCFloatingAdmin.exe” et vérifier la date d’expiration (la date affichée doit être suppérieur à la date du jour).
 
-![Serveur de licence expiration](../assets/images_fiches/maj-keycreator-licences-flottantes/serveur_licence_expire.png)
+![Serveur de licence expiration](../assets/images_fiches/maj-keycreator-licences-flottantes/serveur_licence_expire.png   ':size=75%')
 
 ## Mise à jour des licences sur le serveur
 
@@ -45,9 +45,9 @@ Pour mettre à jour les licences manuellement (vérifier que le serveur à bien 
 
 - Dans le répertoire de KCNetAdmin lancer “ServerLicenseWizard.exe”
 - Aller dans “Manage current license activations”  
-    ![License Wizard](../assets/images_fiches/maj-keycreator-licences-flottantes/lw_home.png)
+    ![License Wizard](../assets/images_fiches/maj-keycreator-licences-flottantes/lw_home.png   ':size=75%')
 - Puis **pour chaque licence** cliquer sur le bouton “Upgrade”  
-    ![License Wizard - Manage licence](../assets/images_fiches/maj-keycreator-licences-flottantes/lw_manage_licence.png)
+    ![License Wizard - Manage licence](../assets/images_fiches/maj-keycreator-licences-flottantes/lw_manage_licence.png   ':size=75%')
 - Ensuite appuyer sur “Close”
 
 ### Mettre à jour les licences flottantes par license.lic (clé USB - adresse MAC)
@@ -70,7 +70,7 @@ Sur le serveur, redémarrer le service “Kubotek Floating License Server”
 - Démarrer “ServerLicenseWizard.exe”
 - Puis cliquez sur “Other licensing options” puis “Restart the floating license service”
     
-    ![License Wizard - Restart Server](../assets/images_fiches/maj-keycreator-licences-flottantes/lw_restart_server.png)
+    ![License Wizard - Restart Server](../assets/images_fiches/maj-keycreator-licences-flottantes/lw_restart_server.png   ':size=75%')
     
 
 - Valider le message qui dit que le serveur de licence à bien été redémarré
